@@ -2,13 +2,13 @@
 Realizar la experiencia de la elaboración de un proyecto que se espera salga a producción, pasando por todas las etapas del desarrollo de software.
 
 #Objetivos específicos
-•	Analizar requisitos de desarrollo de distintos componentes de software.
-•	Diseñar la propuesta de solución para los distintos componentes de software.
-•	Realizar la programación de los componentes de software que formarán parte de la solución.
-•	Probar los distintos componentes de software que formarán parte de la solución.
-•	Implementar los componentes de software que formarán parte de la solución.
-•	Trabajar en equipo para alcanzar la consecución de las metas del proyecto.
-•	Utilizar software que facilite la integración de código fuente y la gestión del ciclo de vida del software.
+Analizar requisitos de desarrollo de distintos componentes de software.
+Diseñar la propuesta de solución para los distintos componentes de software.
+Realizar la programación de los componentes de software que formarán parte de la solución.
+Probar los distintos componentes de software que formarán parte de la solución.
+Implementar los componentes de software que formarán parte de la solución.
+Trabajar en equipo para alcanzar la consecución de las metas del proyecto.
+Utilizar software que facilite la integración de código fuente y la gestión del ciclo de vida del software.
 
 #Contexto del proyecto
 Recientemente y por directriz de la decanatura, el CUC ha fortalecido las medidas de seguridad en el ingreso a la institución, por medio del uso del carnet institucional, tanto para funcionarios como para estudiantes. Como toda medida de seguridad que se aplica, conlleva la aparición de algunos inconvenientes para las personas en las que se aplica esta.
